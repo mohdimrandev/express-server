@@ -1,0 +1,5 @@
+# Set default behavior to normalize line endings for all text files
+* text=auto
+
+# Declare files that should always have LF line endings on checkout
+*.json text eol=lf
